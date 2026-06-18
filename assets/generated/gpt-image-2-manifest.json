@@ -1,0 +1,1658 @@
+{
+  "model": "gpt-image-2",
+  "imported_at": "2026-06-17T18:09:52.640Z",
+  "source_dir": "assets/generated",
+  "expected_count": 206,
+  "imported_count": 206,
+  "missing": [],
+  "imported": [
+    {
+      "path": "ui/paper-grain.png",
+      "group": "ui",
+      "minWidth": 160,
+      "minHeight": 160,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "ui/seal-template.png",
+      "group": "ui",
+      "minWidth": 256,
+      "minHeight": 256,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "ui/scroll-rod.png",
+      "group": "ui",
+      "minWidth": 320,
+      "minHeight": 64,
+      "width": 2103,
+      "height": 748
+    },
+    {
+      "path": "scenes/mortal.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1659,
+      "height": 948
+    },
+    {
+      "path": "scenes/cultivation.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "scenes/immortal.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1738,
+      "height": 905
+    },
+    {
+      "path": "scenes/zhongyuan-market.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "path": "scenes/zhongyuan-temple-road.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1717,
+      "height": 916
+    },
+    {
+      "path": "scenes/zhongyuan-ancient-library.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "scenes/zhongyuan-luoxia-cave.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "scenes/jiangnan-rain-lake.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "path": "scenes/jiangnan-bamboo-manor.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "path": "scenes/jiangnan-water-town.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "path": "scenes/jiangnan-night-bridge.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "path": "scenes/saiwai-wolf-pass.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1983,
+      "height": 793
+    },
+    {
+      "path": "scenes/saiwai-dust-tomb.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1983,
+      "height": 793
+    },
+    {
+      "path": "scenes/saiwai-border-camp.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "path": "scenes/saiwai-storm-steppe.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1729,
+      "height": 910
+    },
+    {
+      "path": "scenes/xiyu-bingfeng-cave.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "path": "scenes/xiyu-sand-palace.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "path": "scenes/xiyu-snow-pass.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "scenes/xiyu-caravan-inn.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "scenes/bashu-shu-path.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1701,
+      "height": 925
+    },
+    {
+      "path": "scenes/bashu-fog-valley.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1822,
+      "height": 863
+    },
+    {
+      "path": "scenes/bashu-cliff-village.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "scenes/bashu-plank-rain.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1746,
+      "height": 901
+    },
+    {
+      "path": "scenes/lingnan-miasma-marsh.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "scenes/lingnan-south-sea-ruin.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "path": "scenes/lingnan-banyan-village.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "path": "scenes/lingnan-tide-temple.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1828,
+      "height": 860
+    },
+    {
+      "path": "scenes/cave-meditation.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "path": "scenes/sword-terrace.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "path": "scenes/alchemy-hall.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "scenes/spirit-spring.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1662,
+      "height": 946
+    },
+    {
+      "path": "scenes/sect-inner-court.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "scenes/immortal-cloud-gate.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "scenes/immortal-moon-palace.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1738,
+      "height": 905
+    },
+    {
+      "path": "scenes/immortal-star-river.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "scenes/immortal-jade-terrace.png",
+      "group": "scenes",
+      "minWidth": 960,
+      "minHeight": 420,
+      "width": 1823,
+      "height": 863
+    },
+    {
+      "path": "portraits/hero-mortal.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "portraits/hero-cultivation.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "portraits/hero-immortal.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "portraits/hero-youth.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "portraits/hero-wanderer.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 887,
+      "height": 1774
+    },
+    {
+      "path": "portraits/hero-sect-disciple.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "portraits/hero-weathered.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 864,
+      "height": 1821
+    },
+    {
+      "path": "portraits/hero-sword-cultivator.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "portraits/hero-alchemist.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "portraits/hero-grandmaster.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "portraits/hero-tribulation.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "path": "portraits/hero-cloud-immortal.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "path": "portraits/hero-moon-robed.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 864,
+      "height": 1821
+    },
+    {
+      "path": "portraits/hero-ascended-warrior.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 864,
+      "height": 1821
+    },
+    {
+      "path": "portraits/hero-female-child.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 948,
+      "height": 1660
+    },
+    {
+      "path": "portraits/hero-female-youth.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 916,
+      "height": 1717
+    },
+    {
+      "path": "portraits/hero-female-wanderer.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 864,
+      "height": 1821
+    },
+    {
+      "path": "portraits/hero-female-mortal.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 862,
+      "height": 1825
+    },
+    {
+      "path": "portraits/hero-female-sect-disciple.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "portraits/hero-female-weathered.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "path": "portraits/hero-female-grandmaster.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "portraits/hero-female-cultivation.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "portraits/hero-female-immortal.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "portraits/mentor.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "portraits/spouse.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 941,
+      "height": 1672
+    },
+    {
+      "path": "portraits/child.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "portraits/nemesis.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "portraits/benefactor.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "portraits/mentor-female.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 929,
+      "height": 1693
+    },
+    {
+      "path": "portraits/spouse-female.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "portraits/child-female.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 887,
+      "height": 1774
+    },
+    {
+      "path": "portraits/nemesis-female.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "portraits/benefactor-female.png",
+      "group": "portraits",
+      "minWidth": 320,
+      "minHeight": 480,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "equipment/equipment_000.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_001.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_002.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_003.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_004.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_005.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_006.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_007.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_008.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_009.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_010.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_011.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_012.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_013.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_014.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_015.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_016.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_017.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_018.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "equipment/equipment_019.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_020.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_021.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_022.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_023.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_024.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_025.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_026.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_027.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_028.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_029.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_030.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_031.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_032.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_033.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_034.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_035.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_036.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_037.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_038.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_039.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_040.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_041.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_042.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_043.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_044.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_045.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_046.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_047.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_048.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_049.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_050.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_051.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "equipment/equipment_052.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_053.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "equipment/equipment_054.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_055.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_056.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_057.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "equipment/equipment_058.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "equipment/equipment_059.png",
+      "group": "equipment",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_000.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_001.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_002.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_003.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_004.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_005.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_006.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_007.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_008.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_009.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_010.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_011.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_012.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_013.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_014.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_015.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_016.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "pills/pill_017.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_018.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_019.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_020.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_021.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_022.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1693,
+      "height": 1693
+    },
+    {
+      "path": "pills/pill_023.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_024.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_025.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_026.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_027.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_028.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_029.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_030.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_031.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_032.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_033.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_034.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_035.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_036.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_037.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_038.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_039.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_040.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_041.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_042.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_043.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_044.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_045.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_046.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "pills/pill_047.png",
+      "group": "pills",
+      "minWidth": 1024,
+      "minHeight": 1024,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "sects/少林.png",
+      "group": "sects",
+      "minWidth": 320,
+      "minHeight": 180,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "sects/武当.png",
+      "group": "sects",
+      "minWidth": 320,
+      "minHeight": 180,
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "path": "sects/峨眉.png",
+      "group": "sects",
+      "minWidth": 320,
+      "minHeight": 180,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "sects/华山.png",
+      "group": "sects",
+      "minWidth": 320,
+      "minHeight": 180,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "sects/昆仑.png",
+      "group": "sects",
+      "minWidth": 320,
+      "minHeight": 180,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "sects/崆峒.png",
+      "group": "sects",
+      "minWidth": 320,
+      "minHeight": 180,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "sects/青城.png",
+      "group": "sects",
+      "minWidth": 320,
+      "minHeight": 180,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "sects/点苍.png",
+      "group": "sects",
+      "minWidth": 320,
+      "minHeight": 180,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "events/tribulation.png",
+      "group": "events",
+      "minWidth": 800,
+      "minHeight": 360,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "events/family.png",
+      "group": "events",
+      "minWidth": 800,
+      "minHeight": 360,
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "path": "events/encounter.png",
+      "group": "events",
+      "minWidth": 800,
+      "minHeight": 360,
+      "width": 1983,
+      "height": 793
+    },
+    {
+      "path": "events/ascension.png",
+      "group": "events",
+      "minWidth": 800,
+      "minHeight": 360,
+      "width": 1774,
+      "height": 887
+    },
+    {
+      "path": "icons/fate.png",
+      "group": "icons",
+      "minWidth": 128,
+      "minHeight": 128,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "icons/immortal.png",
+      "group": "icons",
+      "minWidth": 128,
+      "minHeight": 128,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "icons/realm.png",
+      "group": "icons",
+      "minWidth": 128,
+      "minHeight": 128,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "icons/mood.png",
+      "group": "icons",
+      "minWidth": 128,
+      "minHeight": 128,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "icons/sect.png",
+      "group": "icons",
+      "minWidth": 128,
+      "minHeight": 128,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "icons/skill.png",
+      "group": "icons",
+      "minWidth": 128,
+      "minHeight": 128,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "icons/equipment.png",
+      "group": "icons",
+      "minWidth": 128,
+      "minHeight": 128,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "icons/pill.png",
+      "group": "icons",
+      "minWidth": 128,
+      "minHeight": 128,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "icons/map.png",
+      "group": "icons",
+      "minWidth": 128,
+      "minHeight": 128,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "icons/family.png",
+      "group": "icons",
+      "minWidth": 128,
+      "minHeight": 128,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "icons/history.png",
+      "group": "icons",
+      "minWidth": 128,
+      "minHeight": 128,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "icons/jade.png",
+      "group": "icons",
+      "minWidth": 128,
+      "minHeight": 128,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "icons/lotus.png",
+      "group": "icons",
+      "minWidth": 128,
+      "minHeight": 128,
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "path": "icons/lamp.png",
+      "group": "icons",
+      "minWidth": 128,
+      "minHeight": 128,
+      "width": 1254,
+      "height": 1254
+    }
+  ]
+}

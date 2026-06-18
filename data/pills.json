@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "pill_000",
+    "name": "凝元丹1",
+    "type": "疗伤",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 2,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "凝元草x2",
+        "寒露花x1"
+      ],
+      "success_rate": 0.55
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_001",
+    "name": "续脉丸1",
+    "type": "续命",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 1,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "灵乳x2",
+        "乌藤x1"
+      ],
+      "success_rate": 0.63
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_002",
+    "name": "回春散1",
+    "type": "增益",
+    "effect": {
+      "cultivate_speed": 0.12,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "赤参x2",
+        "雪莲x1"
+      ],
+      "success_rate": 0.7100000000000001
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_003",
+    "name": "避劫丹1",
+    "type": "突破辅助",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0.05,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "寒露花x2",
+        "青芝x1"
+      ],
+      "success_rate": 0.79
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_004",
+    "name": "清心丸1",
+    "type": "解毒",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 4
+    },
+    "recipe": {
+      "herbs": [
+        "乌藤x2",
+        "紫砂果x1"
+      ],
+      "success_rate": 0.8700000000000001
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_005",
+    "name": "解瘴丹1",
+    "type": "改命",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 4
+    },
+    "recipe": {
+      "herbs": [
+        "雪莲x2",
+        "凝元草x1"
+      ],
+      "success_rate": 0.55
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_006",
+    "name": "延寿丹1",
+    "type": "疗伤",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 2,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "青芝x2",
+        "灵乳x1"
+      ],
+      "success_rate": 0.63
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_007",
+    "name": "改命丸1",
+    "type": "续命",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 1,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "紫砂果x2",
+        "赤参x1"
+      ],
+      "success_rate": 0.7100000000000001
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_008",
+    "name": "凝元丹2",
+    "type": "增益",
+    "effect": {
+      "cultivate_speed": 0.12,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "凝元草x2",
+        "寒露花x1"
+      ],
+      "success_rate": 0.79
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_009",
+    "name": "续脉丸2",
+    "type": "突破辅助",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0.05,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "灵乳x2",
+        "乌藤x1"
+      ],
+      "success_rate": 0.8700000000000001
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_010",
+    "name": "回春散2",
+    "type": "解毒",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 4
+    },
+    "recipe": {
+      "herbs": [
+        "赤参x2",
+        "雪莲x1"
+      ],
+      "success_rate": 0.55
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_011",
+    "name": "避劫丹2",
+    "type": "改命",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 4
+    },
+    "recipe": {
+      "herbs": [
+        "寒露花x2",
+        "青芝x1"
+      ],
+      "success_rate": 0.63
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_012",
+    "name": "清心丸2",
+    "type": "疗伤",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 2,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "乌藤x2",
+        "紫砂果x1"
+      ],
+      "success_rate": 0.7100000000000001
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_013",
+    "name": "解瘴丹2",
+    "type": "续命",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 1,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "雪莲x2",
+        "凝元草x1"
+      ],
+      "success_rate": 0.79
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_014",
+    "name": "延寿丹2",
+    "type": "增益",
+    "effect": {
+      "cultivate_speed": 0.12,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "青芝x2",
+        "灵乳x1"
+      ],
+      "success_rate": 0.8700000000000001
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_015",
+    "name": "改命丸2",
+    "type": "突破辅助",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0.05,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "紫砂果x2",
+        "赤参x1"
+      ],
+      "success_rate": 0.55
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_016",
+    "name": "凝元丹3",
+    "type": "解毒",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 4
+    },
+    "recipe": {
+      "herbs": [
+        "凝元草x2",
+        "寒露花x1"
+      ],
+      "success_rate": 0.63
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_017",
+    "name": "续脉丸3",
+    "type": "改命",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 4
+    },
+    "recipe": {
+      "herbs": [
+        "灵乳x2",
+        "乌藤x1"
+      ],
+      "success_rate": 0.7100000000000001
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_018",
+    "name": "回春散3",
+    "type": "疗伤",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 2,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "赤参x2",
+        "雪莲x1"
+      ],
+      "success_rate": 0.79
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_019",
+    "name": "避劫丹3",
+    "type": "续命",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 1,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "寒露花x2",
+        "青芝x1"
+      ],
+      "success_rate": 0.8700000000000001
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_020",
+    "name": "清心丸3",
+    "type": "增益",
+    "effect": {
+      "cultivate_speed": 0.12,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "乌藤x2",
+        "紫砂果x1"
+      ],
+      "success_rate": 0.55
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_021",
+    "name": "解瘴丹3",
+    "type": "突破辅助",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0.05,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "雪莲x2",
+        "凝元草x1"
+      ],
+      "success_rate": 0.63
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_022",
+    "name": "延寿丹3",
+    "type": "解毒",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 4
+    },
+    "recipe": {
+      "herbs": [
+        "青芝x2",
+        "灵乳x1"
+      ],
+      "success_rate": 0.7100000000000001
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_023",
+    "name": "改命丸3",
+    "type": "改命",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 4
+    },
+    "recipe": {
+      "herbs": [
+        "紫砂果x2",
+        "赤参x1"
+      ],
+      "success_rate": 0.79
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_024",
+    "name": "凝元丹4",
+    "type": "疗伤",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 2,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "凝元草x2",
+        "寒露花x1"
+      ],
+      "success_rate": 0.8700000000000001
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_025",
+    "name": "续脉丸4",
+    "type": "续命",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 1,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "灵乳x2",
+        "乌藤x1"
+      ],
+      "success_rate": 0.55
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_026",
+    "name": "回春散4",
+    "type": "增益",
+    "effect": {
+      "cultivate_speed": 0.12,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "赤参x2",
+        "雪莲x1"
+      ],
+      "success_rate": 0.63
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_027",
+    "name": "避劫丹4",
+    "type": "突破辅助",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0.05,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "寒露花x2",
+        "青芝x1"
+      ],
+      "success_rate": 0.7100000000000001
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_028",
+    "name": "清心丸4",
+    "type": "解毒",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 4
+    },
+    "recipe": {
+      "herbs": [
+        "乌藤x2",
+        "紫砂果x1"
+      ],
+      "success_rate": 0.79
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_029",
+    "name": "解瘴丹4",
+    "type": "改命",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 4
+    },
+    "recipe": {
+      "herbs": [
+        "雪莲x2",
+        "凝元草x1"
+      ],
+      "success_rate": 0.8700000000000001
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_030",
+    "name": "延寿丹4",
+    "type": "疗伤",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 2,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "青芝x2",
+        "灵乳x1"
+      ],
+      "success_rate": 0.55
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_031",
+    "name": "改命丸4",
+    "type": "续命",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 1,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "紫砂果x2",
+        "赤参x1"
+      ],
+      "success_rate": 0.63
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_032",
+    "name": "凝元丹5",
+    "type": "增益",
+    "effect": {
+      "cultivate_speed": 0.12,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "凝元草x2",
+        "寒露花x1"
+      ],
+      "success_rate": 0.7100000000000001
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_033",
+    "name": "续脉丸5",
+    "type": "突破辅助",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0.05,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "灵乳x2",
+        "乌藤x1"
+      ],
+      "success_rate": 0.79
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_034",
+    "name": "回春散5",
+    "type": "解毒",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 4
+    },
+    "recipe": {
+      "herbs": [
+        "赤参x2",
+        "雪莲x1"
+      ],
+      "success_rate": 0.8700000000000001
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_035",
+    "name": "避劫丹5",
+    "type": "改命",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 4
+    },
+    "recipe": {
+      "herbs": [
+        "寒露花x2",
+        "青芝x1"
+      ],
+      "success_rate": 0.55
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_036",
+    "name": "清心丸5",
+    "type": "疗伤",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 2,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "乌藤x2",
+        "紫砂果x1"
+      ],
+      "success_rate": 0.63
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_037",
+    "name": "解瘴丹5",
+    "type": "续命",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 1,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "雪莲x2",
+        "凝元草x1"
+      ],
+      "success_rate": 0.7100000000000001
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_038",
+    "name": "延寿丹5",
+    "type": "增益",
+    "effect": {
+      "cultivate_speed": 0.12,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "青芝x2",
+        "灵乳x1"
+      ],
+      "success_rate": 0.79
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_039",
+    "name": "改命丸5",
+    "type": "突破辅助",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0.05,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "紫砂果x2",
+        "赤参x1"
+      ],
+      "success_rate": 0.8700000000000001
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_040",
+    "name": "凝元丹6",
+    "type": "解毒",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 4
+    },
+    "recipe": {
+      "herbs": [
+        "凝元草x2",
+        "寒露花x1"
+      ],
+      "success_rate": 0.55
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_041",
+    "name": "续脉丸6",
+    "type": "改命",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 4
+    },
+    "recipe": {
+      "herbs": [
+        "灵乳x2",
+        "乌藤x1"
+      ],
+      "success_rate": 0.63
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_042",
+    "name": "回春散6",
+    "type": "疗伤",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 2,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "赤参x2",
+        "雪莲x1"
+      ],
+      "success_rate": 0.7100000000000001
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_043",
+    "name": "避劫丹6",
+    "type": "续命",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 1,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "寒露花x2",
+        "青芝x1"
+      ],
+      "success_rate": 0.79
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_044",
+    "name": "清心丸6",
+    "type": "增益",
+    "effect": {
+      "cultivate_speed": 0.12,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "乌藤x2",
+        "紫砂果x1"
+      ],
+      "success_rate": 0.8700000000000001
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_045",
+    "name": "解瘴丹6",
+    "type": "突破辅助",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0.05,
+      "mood": 0
+    },
+    "recipe": {
+      "herbs": [
+        "雪莲x2",
+        "凝元草x1"
+      ],
+      "success_rate": 0.55
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_046",
+    "name": "延寿丹6",
+    "type": "解毒",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 4
+    },
+    "recipe": {
+      "herbs": [
+        "青芝x2",
+        "灵乳x1"
+      ],
+      "success_rate": 0.63
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  },
+  {
+    "id": "pill_047",
+    "name": "改命丸6",
+    "type": "改命",
+    "effect": {
+      "cultivate_speed": 0,
+      "heal_injury_years": 0,
+      "lifespan": 0,
+      "tribulation": 0,
+      "mood": 4
+    },
+    "recipe": {
+      "herbs": [
+        "紫砂果x2",
+        "赤参x1"
+      ],
+      "success_rate": 0.7100000000000001
+    },
+    "source": [
+      "market",
+      "refine",
+      "event"
+    ],
+    "consumable": true
+  }
+]

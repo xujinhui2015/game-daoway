@@ -1,0 +1,154 @@
+[
+  {
+    "region_id": "zhongyuan",
+    "name": "中原",
+    "sects": [
+      "少林",
+      "武当"
+    ],
+    "event_pool": [
+      "A_修炼突破",
+      "C_江湖门派",
+      "H_财富奇物"
+    ],
+    "specialty": {
+      "herbs": [
+        "凝元草",
+        "赤参"
+      ],
+      "weapons": [
+        "剑",
+        "棍"
+      ]
+    },
+    "secret_sites": [
+      "luoxia_cave",
+      "ancient_library"
+    ]
+  },
+  {
+    "region_id": "jiangnan",
+    "name": "江南",
+    "sects": [
+      "峨眉",
+      "青城"
+    ],
+    "event_pool": [
+      "D_情感婚姻",
+      "E_子嗣",
+      "H_财富奇物"
+    ],
+    "specialty": {
+      "herbs": [
+        "青芝",
+        "灵乳"
+      ],
+      "weapons": [
+        "扇",
+        "短刃"
+      ]
+    },
+    "secret_sites": [
+      "rain_lake",
+      "bamboo_manor"
+    ]
+  },
+  {
+    "region_id": "saiwai",
+    "name": "塞外",
+    "sects": [
+      "崆峒"
+    ],
+    "event_pool": [
+      "F_灾厄死亡",
+      "B_际遇奇遇"
+    ],
+    "specialty": {
+      "herbs": [
+        "乌藤"
+      ],
+      "weapons": [
+        "枪",
+        "刀"
+      ]
+    },
+    "secret_sites": [
+      "wolf_pass",
+      "dust_tomb"
+    ]
+  },
+  {
+    "region_id": "xiyu",
+    "name": "西域",
+    "sects": [
+      "昆仑"
+    ],
+    "event_pool": [
+      "B_际遇奇遇",
+      "G_心境道心"
+    ],
+    "specialty": {
+      "herbs": [
+        "雪莲",
+        "寒露花"
+      ],
+      "weapons": [
+        "弯刀"
+      ]
+    },
+    "secret_sites": [
+      "bingfeng_cave",
+      "sand_palace"
+    ]
+  },
+  {
+    "region_id": "bashu",
+    "name": "巴蜀",
+    "sects": [
+      "青城",
+      "峨眉"
+    ],
+    "event_pool": [
+      "B_际遇奇遇",
+      "C_江湖门派"
+    ],
+    "specialty": {
+      "herbs": [
+        "紫砂果",
+        "乌藤"
+      ],
+      "weapons": [
+        "短刃",
+        "剑"
+      ]
+    },
+    "secret_sites": [
+      "shu_path",
+      "fog_valley"
+    ]
+  },
+  {
+    "region_id": "lingnan",
+    "name": "岭南",
+    "sects": [
+      "点苍"
+    ],
+    "event_pool": [
+      "F_灾厄死亡",
+      "H_财富奇物"
+    ],
+    "specialty": {
+      "herbs": [
+        "青芝",
+        "寒露花"
+      ],
+      "weapons": [
+        "长鞭"
+      ]
+    },
+    "secret_sites": [
+      "miasma_marsh",
+      "south_sea_ruin"
+    ]
+  }
+]

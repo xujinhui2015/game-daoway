@@ -1,0 +1,66 @@
+[
+  {
+    "id": "shaolin",
+    "name": "少林",
+    "region": "zhongyuan",
+    "style": "刚猛厚重",
+    "ranks": ["俗家弟子", "入门弟子", "执事", "长老", "方丈"],
+    "skills": ["skill_shaolin_inner", "skill_shaolin_fist", "skill_shaolin_staff"]
+  },
+  {
+    "id": "wudang",
+    "name": "武当",
+    "region": "zhongyuan",
+    "style": "以柔克刚",
+    "ranks": ["记名弟子", "入室弟子", "执剑", "长老", "掌门"],
+    "skills": ["skill_wudang_inner", "skill_wudang_sword", "skill_wudang_palm"]
+  },
+  {
+    "id": "emei",
+    "name": "峨眉",
+    "region": "jiangnan",
+    "style": "轻灵兼修",
+    "ranks": ["外门弟子", "内门弟子", "执事", "长老", "掌门"],
+    "skills": ["skill_emei_inner", "skill_emei_sword", "skill_emei_step"]
+  },
+  {
+    "id": "huashan",
+    "name": "华山",
+    "region": "zhongyuan",
+    "style": "剑道凌厉",
+    "ranks": ["外门弟子", "内门弟子", "剑堂执事", "长老", "掌门"],
+    "skills": ["skill_huashan_inner", "skill_huashan_sword"]
+  },
+  {
+    "id": "kunlun",
+    "name": "昆仑",
+    "region": "xiyu",
+    "style": "剑气纵横",
+    "ranks": ["山门弟子", "入室弟子", "巡山使", "长老", "掌门"],
+    "skills": ["skill_kunlun_inner", "skill_kunlun_sword"]
+  },
+  {
+    "id": "kongtong",
+    "name": "崆峒",
+    "region": "saiwai",
+    "style": "阴柔诡变",
+    "ranks": ["外门弟子", "内门弟子", "刑堂执事", "长老", "掌门"],
+    "skills": ["skill_kongtong_inner", "skill_kongtong_palm"]
+  },
+  {
+    "id": "qingcheng",
+    "name": "青城",
+    "region": "bashu",
+    "style": "迅捷狠辣",
+    "ranks": ["外门弟子", "内门弟子", "巡江使", "长老", "掌门"],
+    "skills": ["skill_qingcheng_inner", "skill_qingcheng_sword", "skill_qingcheng_step"]
+  },
+  {
+    "id": "diancang",
+    "name": "点苍",
+    "region": "lingnan",
+    "style": "飘逸悠远",
+    "ranks": ["外门弟子", "内门弟子", "执剑", "长老", "掌门"],
+    "skills": ["skill_diancang_inner", "skill_diancang_sword"]
+  }
+]

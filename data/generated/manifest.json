@@ -1,0 +1,235 @@
+{
+  "generated_at": "content-pipeline-v1",
+  "target": {
+    "event_templates_min": 5800,
+    "text_chars_min": 260000,
+    "source": "plan/content-budget.md"
+  },
+  "files": [
+    {
+      "path": "events/A.json",
+      "category": "A_修炼突破",
+      "count": 400
+    },
+    {
+      "path": "events/B.json",
+      "category": "B_际遇奇遇",
+      "count": 900
+    },
+    {
+      "path": "events/C.json",
+      "category": "C_江湖门派",
+      "count": 560
+    },
+    {
+      "path": "events/D.json",
+      "category": "D_情感婚姻",
+      "count": 440
+    },
+    {
+      "path": "events/E.json",
+      "category": "E_子嗣",
+      "count": 440
+    },
+    {
+      "path": "events/F.json",
+      "category": "F_灾厄死亡",
+      "count": 360
+    },
+    {
+      "path": "events/G.json",
+      "category": "G_心境道心",
+      "count": 220
+    },
+    {
+      "path": "events/H.json",
+      "category": "H_财富奇物",
+      "count": 220
+    },
+    {
+      "path": "events/I.json",
+      "category": "I_飞升转世",
+      "count": 500
+    },
+    {
+      "path": "events/rescue.json",
+      "category": "救命_死里逃生",
+      "count": 260
+    },
+    {
+      "path": "events/tribulation.json",
+      "category": "渡劫剧情",
+      "count": 288
+    },
+    {
+      "path": "events/traces.json",
+      "category": "跨世留痕",
+      "count": 180
+    },
+    {
+      "path": "events/chains.json",
+      "category": "链式剧情线",
+      "count": 480
+    },
+    {
+      "path": "events/life_path.json",
+      "category": "成长_主线阶段",
+      "count": 12
+    },
+    {
+      "path": "events/flavor.json",
+      "category": "人生阶段氛围",
+      "count": 640
+    }
+  ],
+  "categories": {
+    "A_修炼突破": 400,
+    "B_际遇奇遇": 900,
+    "C_江湖门派": 560,
+    "D_情感婚姻": 440,
+    "E_子嗣": 440,
+    "F_灾厄死亡": 360,
+    "G_心境道心": 220,
+    "H_财富奇物": 220,
+    "I_飞升转世": 500,
+    "救命_死里逃生": 260,
+    "渡劫剧情": 288,
+    "跨世留痕": 180,
+    "链式剧情线": 480,
+    "成长_主线阶段": 12,
+    "人生阶段氛围": 640
+  },
+  "checks": {
+    "rescue_causes": [
+      "刀剑仇杀",
+      "坠崖坠落",
+      "溺水落水",
+      "中毒",
+      "疾病瘟疫",
+      "噎食意外",
+      "战祸大乱",
+      "修炼走火"
+    ],
+    "trace_types": [
+      "descendant",
+      "relic",
+      "nemesis",
+      "legend"
+    ],
+    "chain_lines_min": 6
+  },
+  "total_events": 5900,
+  "text_stats": {
+    "total_text_chars": 583393,
+    "unique_texts": 5306,
+    "choice_listed": 490,
+    "choice_modal": 94,
+    "by_category": {
+      "A_修炼突破": {
+        "count": 400,
+        "text_chars": 37748,
+        "unique_texts": 400,
+        "choice_listed": 43,
+        "choice_modal": 9
+      },
+      "B_际遇奇遇": {
+        "count": 900,
+        "text_chars": 84691,
+        "unique_texts": 630,
+        "choice_listed": 98,
+        "choice_modal": 21
+      },
+      "C_江湖门派": {
+        "count": 560,
+        "text_chars": 54652,
+        "unique_texts": 560,
+        "choice_listed": 61,
+        "choice_modal": 13
+      },
+      "D_情感婚姻": {
+        "count": 440,
+        "text_chars": 41378,
+        "unique_texts": 440,
+        "choice_listed": 47,
+        "choice_modal": 10
+      },
+      "E_子嗣": {
+        "count": 440,
+        "text_chars": 41615,
+        "unique_texts": 440,
+        "choice_listed": 47,
+        "choice_modal": 10
+      },
+      "F_灾厄死亡": {
+        "count": 360,
+        "text_chars": 34543,
+        "unique_texts": 360,
+        "choice_listed": 40,
+        "choice_modal": 8
+      },
+      "G_心境道心": {
+        "count": 220,
+        "text_chars": 20225,
+        "unique_texts": 220,
+        "choice_listed": 24,
+        "choice_modal": 5
+      },
+      "H_财富奇物": {
+        "count": 220,
+        "text_chars": 20376,
+        "unique_texts": 220,
+        "choice_listed": 24,
+        "choice_modal": 5
+      },
+      "I_飞升转世": {
+        "count": 500,
+        "text_chars": 46728,
+        "unique_texts": 500,
+        "choice_listed": 54,
+        "choice_modal": 12
+      },
+      "救命_死里逃生": {
+        "count": 260,
+        "text_chars": 15050,
+        "unique_texts": 80,
+        "choice_listed": 0,
+        "choice_modal": 0
+      },
+      "渡劫剧情": {
+        "count": 288,
+        "text_chars": 22428,
+        "unique_texts": 144,
+        "choice_listed": 0,
+        "choice_modal": 0
+      },
+      "跨世留痕": {
+        "count": 180,
+        "text_chars": 20378,
+        "unique_texts": 180,
+        "choice_listed": 30,
+        "choice_modal": 0
+      },
+      "链式剧情线": {
+        "count": 480,
+        "text_chars": 59705,
+        "unique_texts": 480,
+        "choice_listed": 18,
+        "choice_modal": 0
+      },
+      "成长_主线阶段": {
+        "count": 12,
+        "text_chars": 437,
+        "unique_texts": 12,
+        "choice_listed": 4,
+        "choice_modal": 1
+      },
+      "人生阶段氛围": {
+        "count": 640,
+        "text_chars": 83439,
+        "unique_texts": 640,
+        "choice_listed": 0,
+        "choice_modal": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "skill_shaolin_inner",
+    "name": "玄铁罡气",
+    "kind": "inner",
+    "grade": "玄阶",
+    "attribute": "至刚",
+    "sect": "少林",
+    "require": {
+      "realm_min": "先天",
+      "comprehension_min": 10,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.015,
+      "internal_cap": 10,
+      "tribulation": 0.005
+    },
+    "synergy": {
+      "match_attr": [
+        "至刚",
+        "清灵"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_shaolin_fist",
+    "name": "伏虎拳",
+    "kind": "outer",
+    "grade": "黄阶",
+    "attribute": "至刚",
+    "sect": "少林",
+    "require": {
+      "realm_min": "后天",
+      "comprehension_min": 12,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.016,
+      "internal_cap": 13,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "至刚",
+        "清灵"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_shaolin_staff",
+    "name": "镇山棍法",
+    "kind": "outer",
+    "grade": "地阶",
+    "attribute": "厚重",
+    "sect": "少林",
+    "require": {
+      "realm_min": "宗师",
+      "comprehension_min": 14,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.017,
+      "internal_cap": 16,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "厚重",
+        "清灵"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_wudang_inner",
+    "name": "两仪真气",
+    "kind": "inner",
+    "grade": "地阶",
+    "attribute": "阴阳",
+    "sect": "武当",
+    "require": {
+      "realm_min": "宗师",
+      "comprehension_min": 16,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.018,
+      "internal_cap": 19,
+      "tribulation": 0.005
+    },
+    "synergy": {
+      "match_attr": [
+        "阴阳",
+        "至阳"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_wudang_sword",
+    "name": "流云剑",
+    "kind": "outer",
+    "grade": "玄阶",
+    "attribute": "柔劲",
+    "sect": "武当",
+    "require": {
+      "realm_min": "先天",
+      "comprehension_min": 18,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.019,
+      "internal_cap": 22,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "柔劲",
+        "清灵"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_wudang_palm",
+    "name": "绵云掌",
+    "kind": "outer",
+    "grade": "黄阶",
+    "attribute": "柔劲",
+    "sect": "武当",
+    "require": {
+      "realm_min": "后天",
+      "comprehension_min": 20,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.02,
+      "internal_cap": 25,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "柔劲",
+        "清灵"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_emei_inner",
+    "name": "清心诀",
+    "kind": "inner",
+    "grade": "玄阶",
+    "attribute": "清灵",
+    "sect": "峨眉",
+    "require": {
+      "realm_min": "先天",
+      "comprehension_min": 22,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.020999999999999998,
+      "internal_cap": 28,
+      "tribulation": 0.005
+    },
+    "synergy": {
+      "match_attr": [
+        "清灵",
+        "清灵"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_emei_sword",
+    "name": "飞凤剑法",
+    "kind": "outer",
+    "grade": "玄阶",
+    "attribute": "轻灵",
+    "sect": "峨眉",
+    "require": {
+      "realm_min": "先天",
+      "comprehension_min": 24,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.022,
+      "internal_cap": 31,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "轻灵",
+        "清灵"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_emei_step",
+    "name": "踏雪步",
+    "kind": "movement",
+    "grade": "黄阶",
+    "attribute": "轻灵",
+    "sect": "峨眉",
+    "require": {
+      "realm_min": "后天",
+      "comprehension_min": 26,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.023,
+      "internal_cap": 34,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "轻灵",
+        "清灵"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_huashan_inner",
+    "name": "朝阳功",
+    "kind": "inner",
+    "grade": "玄阶",
+    "attribute": "至阳",
+    "sect": "华山",
+    "require": {
+      "realm_min": "先天",
+      "comprehension_min": 28,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.024,
+      "internal_cap": 37,
+      "tribulation": 0.005
+    },
+    "synergy": {
+      "match_attr": [
+        "至阳",
+        "至阳"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_huashan_sword",
+    "name": "裂石剑法",
+    "kind": "outer",
+    "grade": "地阶",
+    "attribute": "凌厉",
+    "sect": "华山",
+    "require": {
+      "realm_min": "宗师",
+      "comprehension_min": 30,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.025,
+      "internal_cap": 40,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "凌厉",
+        "清灵"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_kunlun_inner",
+    "name": "玄冰诀",
+    "kind": "inner",
+    "grade": "地阶",
+    "attribute": "阴寒",
+    "sect": "昆仑",
+    "require": {
+      "realm_min": "宗师",
+      "comprehension_min": 32,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.026,
+      "internal_cap": 43,
+      "tribulation": 0.005
+    },
+    "synergy": {
+      "match_attr": [
+        "阴寒",
+        "阴寒"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_kunlun_sword",
+    "name": "云海剑法",
+    "kind": "outer",
+    "grade": "玄阶",
+    "attribute": "浩荡",
+    "sect": "昆仑",
+    "require": {
+      "realm_min": "先天",
+      "comprehension_min": 34,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.027,
+      "internal_cap": 46,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "浩荡",
+        "清灵"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_kongtong_inner",
+    "name": "纳元功",
+    "kind": "inner",
+    "grade": "黄阶",
+    "attribute": "阴柔",
+    "sect": "崆峒",
+    "require": {
+      "realm_min": "后天",
+      "comprehension_min": 36,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.028,
+      "internal_cap": 49,
+      "tribulation": 0.005
+    },
+    "synergy": {
+      "match_attr": [
+        "阴柔",
+        "阴寒"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_kongtong_palm",
+    "name": "裂岳掌",
+    "kind": "outer",
+    "grade": "玄阶",
+    "attribute": "诡变",
+    "sect": "崆峒",
+    "require": {
+      "realm_min": "先天",
+      "comprehension_min": 38,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.028999999999999998,
+      "internal_cap": 52,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "诡变",
+        "清灵"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_qingcheng_inner",
+    "name": "松风诀",
+    "kind": "inner",
+    "grade": "黄阶",
+    "attribute": "迅捷",
+    "sect": "青城",
+    "require": {
+      "realm_min": "后天",
+      "comprehension_min": 40,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.03,
+      "internal_cap": 55,
+      "tribulation": 0.005
+    },
+    "synergy": {
+      "match_attr": [
+        "迅捷",
+        "清灵"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_qingcheng_sword",
+    "name": "青锋剑法",
+    "kind": "outer",
+    "grade": "玄阶",
+    "attribute": "迅捷",
+    "sect": "青城",
+    "require": {
+      "realm_min": "先天",
+      "comprehension_min": 42,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.031,
+      "internal_cap": 58,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "迅捷",
+        "清灵"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_qingcheng_step",
+    "name": "鹤形步",
+    "kind": "movement",
+    "grade": "黄阶",
+    "attribute": "迅捷",
+    "sect": "青城",
+    "require": {
+      "realm_min": "后天",
+      "comprehension_min": 44,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.032,
+      "internal_cap": 61,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "迅捷",
+        "清灵"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_diancang_inner",
+    "name": "苍山诀",
+    "kind": "inner",
+    "grade": "玄阶",
+    "attribute": "悠远",
+    "sect": "点苍",
+    "require": {
+      "realm_min": "先天",
+      "comprehension_min": 46,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.033,
+      "internal_cap": 64,
+      "tribulation": 0.005
+    },
+    "synergy": {
+      "match_attr": [
+        "悠远",
+        "清灵"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_diancang_sword",
+    "name": "点苍剑法",
+    "kind": "outer",
+    "grade": "玄阶",
+    "attribute": "飘逸",
+    "sect": "点苍",
+    "require": {
+      "realm_min": "先天",
+      "comprehension_min": 48,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.034,
+      "internal_cap": 67,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "飘逸",
+        "清灵"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_wandering_heal",
+    "name": "回春指要",
+    "kind": "support",
+    "grade": "黄阶",
+    "attribute": "疗伤",
+    "sect": "江湖",
+    "require": {
+      "realm_min": "后天",
+      "comprehension_min": 50,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.035,
+      "internal_cap": 70,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "疗伤",
+        "清灵"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_wandering_poison",
+    "name": "解瘴经",
+    "kind": "support",
+    "grade": "玄阶",
+    "attribute": "解毒",
+    "sect": "江湖",
+    "require": {
+      "realm_min": "先天",
+      "comprehension_min": 52,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.036000000000000004,
+      "internal_cap": 73,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "解毒",
+        "清灵"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_wandering_blade",
+    "name": "归雁刀谱",
+    "kind": "outer",
+    "grade": "黄阶",
+    "attribute": "沉稳",
+    "sect": "江湖",
+    "require": {
+      "realm_min": "后天",
+      "comprehension_min": 54,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.037,
+      "internal_cap": 76,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "沉稳",
+        "清灵"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_wandering_spear",
+    "name": "照胆枪诀",
+    "kind": "outer",
+    "grade": "玄阶",
+    "attribute": "刚烈",
+    "sect": "江湖",
+    "require": {
+      "realm_min": "先天",
+      "comprehension_min": 56,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.038,
+      "internal_cap": 79,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "刚烈",
+        "清灵"
+      ]
+    },
+    "source": [
+      "sect_library",
+      "event"
+    ]
+  },
+  {
+    "id": "skill_secret_moon",
+    "name": "栖月真解",
+    "kind": "inner",
+    "grade": "天阶",
+    "attribute": "清冷",
+    "sect": "秘境",
+    "require": {
+      "realm_min": "金丹",
+      "comprehension_min": 58,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.039,
+      "internal_cap": 82,
+      "tribulation": 0.005
+    },
+    "synergy": {
+      "match_attr": [
+        "清冷",
+        "清灵"
+      ]
+    },
+    "source": [
+      "secret_site",
+      "trace"
+    ]
+  },
+  {
+    "id": "skill_secret_sun",
+    "name": "照玄经",
+    "kind": "inner",
+    "grade": "天阶",
+    "attribute": "至阳",
+    "sect": "秘境",
+    "require": {
+      "realm_min": "金丹",
+      "comprehension_min": 60,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.04,
+      "internal_cap": 85,
+      "tribulation": 0.005
+    },
+    "synergy": {
+      "match_attr": [
+        "至阳",
+        "至阳"
+      ]
+    },
+    "source": [
+      "secret_site",
+      "trace"
+    ]
+  },
+  {
+    "id": "skill_secret_shadow",
+    "name": "无影步",
+    "kind": "movement",
+    "grade": "地阶",
+    "attribute": "迅捷",
+    "sect": "秘境",
+    "require": {
+      "realm_min": "宗师",
+      "comprehension_min": 62,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.041,
+      "internal_cap": 88,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "迅捷",
+        "清灵"
+      ]
+    },
+    "source": [
+      "secret_site",
+      "trace"
+    ]
+  },
+  {
+    "id": "skill_secret_star",
+    "name": "星河指",
+    "kind": "outer",
+    "grade": "天阶",
+    "attribute": "灵动",
+    "sect": "秘境",
+    "require": {
+      "realm_min": "金丹",
+      "comprehension_min": 64,
+      "mood_min": -70
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.041999999999999996,
+      "internal_cap": 91,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "灵动",
+        "清灵"
+      ]
+    },
+    "source": [
+      "secret_site",
+      "trace"
+    ]
+  },
+  {
+    "id": "skill_immortal_root",
+    "name": "太虚种玉篇",
+    "kind": "inner",
+    "grade": "仙阶",
+    "attribute": "太虚",
+    "sect": "仙界",
+    "require": {
+      "realm_min": "渡劫",
+      "comprehension_min": 66,
+      "mood_min": 30
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.043,
+      "internal_cap": 94,
+      "tribulation": 0.005
+    },
+    "synergy": {
+      "match_attr": [
+        "太虚",
+        "清灵"
+      ]
+    },
+    "source": [
+      "secret_site",
+      "trace"
+    ]
+  },
+  {
+    "id": "skill_immortal_blade",
+    "name": "问天剑章",
+    "kind": "outer",
+    "grade": "仙阶",
+    "attribute": "天问",
+    "sect": "仙界",
+    "require": {
+      "realm_min": "渡劫",
+      "comprehension_min": 68,
+      "mood_min": 30
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.044,
+      "internal_cap": 97,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "天问",
+        "清灵"
+      ]
+    },
+    "source": [
+      "secret_site",
+      "trace"
+    ]
+  },
+  {
+    "id": "skill_immortal_body",
+    "name": "金阙炼形录",
+    "kind": "support",
+    "grade": "仙阶",
+    "attribute": "炼体",
+    "sect": "仙界",
+    "require": {
+      "realm_min": "渡劫",
+      "comprehension_min": 70,
+      "mood_min": 30
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.045,
+      "internal_cap": 100,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "炼体",
+        "清灵"
+      ]
+    },
+    "source": [
+      "secret_site",
+      "trace"
+    ]
+  },
+  {
+    "id": "skill_immortal_walk",
+    "name": "乘云步虚法",
+    "kind": "movement",
+    "grade": "仙阶",
+    "attribute": "步虚",
+    "sect": "仙界",
+    "require": {
+      "realm_min": "渡劫",
+      "comprehension_min": 72,
+      "mood_min": 30
+    },
+    "mastery_levels": [
+      "入门",
+      "小成",
+      "大成",
+      "圆满",
+      "登峰造极"
+    ],
+    "effects_per_level": {
+      "cultivate_speed": 0.046,
+      "internal_cap": 103,
+      "tribulation": 0
+    },
+    "synergy": {
+      "match_attr": [
+        "步虚",
+        "清灵"
+      ]
+    },
+    "source": [
+      "secret_site",
+      "trace"
+    ]
+  }
+]

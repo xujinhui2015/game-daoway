@@ -1,0 +1,38 @@
+[
+  {
+    "id": "hanmen",
+    "name": "寒门子弟",
+    "unlock": { "currency": "fate", "cost": 0, "shop_item": null },
+    "modifiers": { "cultivation": 1.04, "lifespan": 0, "mood_start": 8, "death_risk": 0, "wealth": 0.6, "tribulation": 0.01 }
+  },
+  {
+    "id": "xiaohu",
+    "name": "小户人家",
+    "unlock": { "currency": "fate", "cost": 120, "shop_item": "origin_xiaohu" },
+    "modifiers": { "cultivation": 1, "lifespan": 2, "mood_start": 2, "death_risk": -0.001, "wealth": 1, "tribulation": 0 }
+  },
+  {
+    "id": "fujia",
+    "name": "富家子弟",
+    "unlock": { "currency": "fate", "cost": 650, "shop_item": "origin_fujia" },
+    "modifiers": { "cultivation": 0.95, "lifespan": 4, "mood_start": -3, "death_risk": -0.0005, "wealth": 1.8, "tribulation": -0.01 }
+  },
+  {
+    "id": "guanhuan",
+    "name": "官宦子弟",
+    "unlock": { "currency": "fate", "cost": 1800, "shop_item": "origin_guanhuan" },
+    "modifiers": { "cultivation": 1.02, "lifespan": 3, "mood_start": 0, "death_risk": 0.004, "wealth": 1.35, "tribulation": 0.005 }
+  },
+  {
+    "id": "mingmen",
+    "name": "名门子弟",
+    "unlock": { "currency": "fate", "cost": 5200, "shop_item": "origin_mingmen" },
+    "modifiers": { "cultivation": 1.12, "lifespan": 5, "mood_start": 5, "death_risk": 0.001, "wealth": 1.2, "tribulation": 0.015 }
+  },
+  {
+    "id": "xianyi",
+    "name": "仙裔",
+    "unlock": { "currency": "immortal", "cost": 25, "shop_item": "origin_xianyi" },
+    "modifiers": { "cultivation": 1.35, "lifespan": 12, "mood_start": 12, "death_risk": 0.002, "wealth": 1.5, "tribulation": -0.05 }
+  }
+]

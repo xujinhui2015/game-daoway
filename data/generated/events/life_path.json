@@ -1,0 +1,659 @@
+[
+  {
+    "id": "LIFE_PATH_001",
+    "category": "成长_主线阶段",
+    "title": "蒙学竹简",
+    "rarity": "common",
+    "trigger": {
+      "life_stage": [
+        "童年"
+      ],
+      "age_range": [
+        6,
+        10
+      ],
+      "realm_min": "后天",
+      "realm_max": "渡劫",
+      "mood_range": [
+        -100,
+        100
+      ],
+      "origin": "any",
+      "sect": "any",
+      "region": "any",
+      "requires_flags": [],
+      "excludes_flags": [
+        "life_path_mengxue"
+      ],
+      "weight": 88
+    },
+    "type": "auto",
+    "text": "{主角名}在旧竹简上认字，第一次读到江湖门派与仙人传说。",
+    "options": [],
+    "effects": {
+      "experience": 12,
+      "cultivation": 0,
+      "mood": 2,
+      "set_flags": [
+        "life_path_mengxue"
+      ]
+    },
+    "tags": [
+      "成长",
+      "童年",
+      "启蒙"
+    ]
+  },
+  {
+    "id": "LIFE_PATH_002",
+    "category": "成长_主线阶段",
+    "title": "院中站桩",
+    "rarity": "common",
+    "trigger": {
+      "life_stage": [
+        "童年"
+      ],
+      "age_range": [
+        10,
+        12
+      ],
+      "realm_min": "后天",
+      "realm_max": "渡劫",
+      "mood_range": [
+        -100,
+        100
+      ],
+      "origin": "any",
+      "sect": "any",
+      "region": "any",
+      "requires_flags": [],
+      "excludes_flags": [
+        "life_path_foundation_child"
+      ],
+      "weight": 82
+    },
+    "type": "auto",
+    "text": "{主角名}在院中站桩到腿脚发抖，才明白根骨不是一夜长成。",
+    "options": [],
+    "effects": {
+      "experience": 18,
+      "cultivation": 6,
+      "mood": 1,
+      "set_flags": [
+        "life_path_foundation_child"
+      ]
+    },
+    "tags": [
+      "成长",
+      "童年",
+      "根骨"
+    ]
+  },
+  {
+    "id": "LIFE_PATH_003",
+    "category": "成长_主线阶段",
+    "title": "初入市镇",
+    "rarity": "common",
+    "trigger": {
+      "life_stage": [
+        "少年"
+      ],
+      "age_range": [
+        13,
+        16
+      ],
+      "realm_min": "后天",
+      "realm_max": "渡劫",
+      "mood_range": [
+        -100,
+        100
+      ],
+      "origin": "any",
+      "sect": "any",
+      "region": "any",
+      "requires_flags": [],
+      "excludes_flags": [
+        "life_path_first_town"
+      ],
+      "weight": 92
+    },
+    "type": "choice_listed",
+    "timeout": 50,
+    "default_option": 0,
+    "text": "{主角名}第一次独自入市镇，茶棚里都是刀剑、拜师与秘境的传闻。",
+    "options": [
+      {
+        "label": "打听山门",
+        "effects": {
+          "experience": 24,
+          "sect_reputation": 2,
+          "mood": 1,
+          "set_flags": [
+            "life_path_first_town",
+            "heard_sect_gate"
+          ]
+        }
+      },
+      {
+        "label": "独走野路",
+        "effects": {
+          "experience": 34,
+          "cultivation": 10,
+          "mood": -1,
+          "set_flags": [
+            "life_path_first_town",
+            "walked_wild_path"
+          ]
+        }
+      }
+    ],
+    "effects": {
+      "set_flags": [
+        "life_path_first_town"
+      ]
+    },
+    "tags": [
+      "成长",
+      "少年",
+      "江湖"
+    ]
+  },
+  {
+    "id": "LIFE_PATH_004",
+    "category": "成长_主线阶段",
+    "title": "山门试名",
+    "rarity": "rare",
+    "trigger": {
+      "life_stage": [
+        "少年"
+      ],
+      "age_range": [
+        14,
+        20
+      ],
+      "realm_min": "后天",
+      "realm_max": "渡劫",
+      "mood_range": [
+        -100,
+        100
+      ],
+      "origin": "any",
+      "sect": "any",
+      "region": "any",
+      "requires_flags": [],
+      "excludes_flags": [
+        "life_path_gate_trial"
+      ],
+      "weight": 74
+    },
+    "type": "choice_listed",
+    "timeout": 60,
+    "default_option": 0,
+    "text": "{主角名}路过山门试名处，石阶上少年人排成长龙。",
+    "options": [
+      {
+        "label": "递上拜帖",
+        "effects": {
+          "experience": 26,
+          "sect_reputation": 5,
+          "mood": 2,
+          "set_flags": [
+            "life_path_gate_trial",
+            "sent_baitie"
+          ]
+        }
+      },
+      {
+        "label": "转身远游",
+        "effects": {
+          "experience": 44,
+          "gain_skill": "skill_wandering_blade",
+          "mood": -2,
+          "set_flags": [
+            "life_path_gate_trial",
+            "chose_wandering"
+          ]
+        }
+      }
+    ],
+    "effects": {
+      "set_flags": [
+        "life_path_gate_trial"
+      ]
+    },
+    "tags": [
+      "成长",
+      "门派",
+      "散修"
+    ]
+  },
+  {
+    "id": "LIFE_PATH_005",
+    "category": "成长_主线阶段",
+    "title": "雨亭听招",
+    "rarity": "rare",
+    "trigger": {
+      "life_stage": [
+        "青年"
+      ],
+      "age_range": [
+        18,
+        28
+      ],
+      "realm_min": "后天",
+      "realm_max": "渡劫",
+      "mood_range": [
+        -100,
+        100
+      ],
+      "origin": "any",
+      "sect": "any",
+      "region": "any",
+      "requires_flags": [],
+      "excludes_flags": [
+        "life_path_rain_pavilion"
+      ],
+      "weight": 78
+    },
+    "type": "auto",
+    "text": "{主角名}在雨亭听两名江湖客论招，回程路上忽然拆解出自己的枪路。",
+    "options": [],
+    "effects": {
+      "experience": 48,
+      "gain_skill": "skill_wandering_spear",
+      "mood": 3,
+      "set_flags": [
+        "life_path_rain_pavilion"
+      ]
+    },
+    "tags": [
+      "成长",
+      "青年",
+      "自行领悟"
+    ]
+  },
+  {
+    "id": "LIFE_PATH_006",
+    "category": "成长_主线阶段",
+    "title": "二十岁远游",
+    "rarity": "common",
+    "trigger": {
+      "life_stage": [
+        "青年"
+      ],
+      "age_range": [
+        20,
+        26
+      ],
+      "realm_min": "后天",
+      "realm_max": "渡劫",
+      "mood_range": [
+        -100,
+        100
+      ],
+      "origin": "any",
+      "sect": "any",
+      "region": "any",
+      "requires_flags": [],
+      "excludes_flags": [
+        "life_path_twenty_travel"
+      ],
+      "weight": 86
+    },
+    "type": "auto",
+    "text": "{主角名}二十岁远游三郡，见过败亡与成名，心中江湖不再只是传闻。",
+    "options": [],
+    "effects": {
+      "experience": 56,
+      "cultivation": 20,
+      "mood": 2,
+      "set_flags": [
+        "life_path_twenty_travel"
+      ]
+    },
+    "tags": [
+      "成长",
+      "青年",
+      "远游"
+    ]
+  },
+  {
+    "id": "LIFE_PATH_007",
+    "category": "成长_主线阶段",
+    "title": "无师自悟",
+    "rarity": "legendary",
+    "trigger": {
+      "life_stage": [
+        "青年"
+      ],
+      "age_range": [
+        22,
+        35
+      ],
+      "realm_min": "后天",
+      "realm_max": "渡劫",
+      "mood_range": [
+        -100,
+        100
+      ],
+      "origin": "any",
+      "sect": "any",
+      "region": "any",
+      "requires_flags": [],
+      "excludes_flags": [
+        "life_path_self_inner"
+      ],
+      "weight": 46
+    },
+    "type": "choice_modal",
+    "text": "{主角名}夜坐山崖，旧日拳脚、呼吸与伤痛忽然贯成一线。",
+    "options": [
+      {
+        "label": "记下心法",
+        "effects": {
+          "experience": 72,
+          "gain_skill": "skill_wandering_heal",
+          "mood": 5,
+          "set_flags": [
+            "life_path_self_inner"
+          ]
+        }
+      },
+      {
+        "label": "压住妄念",
+        "effects": {
+          "experience": 36,
+          "cultivation": 22,
+          "mood": 1,
+          "set_flags": [
+            "life_path_self_inner",
+            "pressed_insight"
+          ]
+        }
+      }
+    ],
+    "effects": {
+      "set_flags": [
+        "life_path_self_inner"
+      ]
+    },
+    "tags": [
+      "成长",
+      "青年",
+      "自行领悟"
+    ]
+  },
+  {
+    "id": "LIFE_PATH_008",
+    "category": "成长_主线阶段",
+    "title": "三十岁名帖",
+    "rarity": "rare",
+    "trigger": {
+      "life_stage": [
+        "青年"
+      ],
+      "age_range": [
+        28,
+        35
+      ],
+      "realm_min": "后天",
+      "realm_max": "渡劫",
+      "mood_range": [
+        -100,
+        100
+      ],
+      "origin": "any",
+      "sect": "any",
+      "region": "any",
+      "requires_flags": [],
+      "excludes_flags": [
+        "life_path_reputation_30"
+      ],
+      "weight": 66
+    },
+    "type": "choice_listed",
+    "timeout": 70,
+    "default_option": 0,
+    "text": "{主角名}收到几封名帖，有门派邀约，也有旧敌约战。",
+    "options": [
+      {
+        "label": "赴门派约",
+        "effects": {
+          "experience": 42,
+          "sect_reputation": 8,
+          "mood": 2,
+          "set_flags": [
+            "life_path_reputation_30"
+          ]
+        }
+      },
+      {
+        "label": "赴旧敌约",
+        "effects": {
+          "experience": 66,
+          "cultivation": 34,
+          "mood": -3,
+          "set_flags": [
+            "life_path_reputation_30",
+            "met_old_enemy"
+          ]
+        }
+      }
+    ],
+    "effects": {
+      "set_flags": [
+        "life_path_reputation_30"
+      ]
+    },
+    "tags": [
+      "成长",
+      "青年",
+      "名声"
+    ]
+  },
+  {
+    "id": "LIFE_PATH_009",
+    "category": "成长_主线阶段",
+    "title": "四十问劫",
+    "rarity": "legendary",
+    "trigger": {
+      "life_stage": [
+        "中年"
+      ],
+      "age_range": [
+        40,
+        45
+      ],
+      "realm_min": "后天",
+      "realm_max": "渡劫",
+      "mood_range": [
+        -100,
+        100
+      ],
+      "origin": "any",
+      "sect": "any",
+      "region": "any",
+      "requires_flags": [],
+      "excludes_flags": [
+        "life_path_ask_tribulation"
+      ],
+      "weight": 95
+    },
+    "type": "auto",
+    "text": "{主角名}四十岁后回望半生，终于能分清勇气与轻狂，问劫之念才真正落定。",
+    "options": [],
+    "effects": {
+      "experience": 88,
+      "cultivation": 44,
+      "mood": 6,
+      "set_flags": [
+        "life_path_ask_tribulation"
+      ]
+    },
+    "tags": [
+      "成长",
+      "中年",
+      "渡劫前置"
+    ]
+  },
+  {
+    "id": "LIFE_PATH_010",
+    "category": "成长_主线阶段",
+    "title": "压住劫念",
+    "rarity": "rare",
+    "trigger": {
+      "life_stage": [
+        "中年"
+      ],
+      "age_range": [
+        36,
+        55
+      ],
+      "realm_min": "后天",
+      "realm_max": "渡劫",
+      "mood_range": [
+        -100,
+        15
+      ],
+      "origin": "any",
+      "sect": "any",
+      "region": "any",
+      "requires_flags": [],
+      "excludes_flags": [
+        "life_path_hold_calamity"
+      ],
+      "weight": 60
+    },
+    "type": "choice_listed",
+    "timeout": 80,
+    "default_option": 0,
+    "text": "{主角名}心中劫念躁动，却还记得少年时吃过的亏。",
+    "options": [
+      {
+        "label": "闭关固境",
+        "effects": {
+          "experience": 38,
+          "cultivation": 58,
+          "mood": 4,
+          "set_flags": [
+            "life_path_hold_calamity"
+          ]
+        }
+      },
+      {
+        "label": "入世散心",
+        "effects": {
+          "experience": 70,
+          "mood": 7,
+          "set_flags": [
+            "life_path_hold_calamity",
+            "calmed_by_travel"
+          ]
+        }
+      }
+    ],
+    "effects": {
+      "set_flags": [
+        "life_path_hold_calamity"
+      ]
+    },
+    "tags": [
+      "成长",
+      "中年",
+      "心境"
+    ]
+  },
+  {
+    "id": "LIFE_PATH_011",
+    "category": "成长_主线阶段",
+    "title": "回望少时",
+    "rarity": "common",
+    "trigger": {
+      "life_stage": [
+        "晚年"
+      ],
+      "age_range": [
+        56,
+        85
+      ],
+      "realm_min": "后天",
+      "realm_max": "渡劫",
+      "mood_range": [
+        -100,
+        100
+      ],
+      "origin": "any",
+      "sect": "any",
+      "region": "any",
+      "requires_flags": [],
+      "excludes_flags": [
+        "life_path_old_recall"
+      ],
+      "weight": 68
+    },
+    "type": "auto",
+    "text": "{主角名}晚年翻旧物，少年时的破衣与木剑仍在，半生道路忽然清楚。",
+    "options": [],
+    "effects": {
+      "experience": 42,
+      "mood": 4,
+      "currency_on_death_bonus": 8,
+      "set_flags": [
+        "life_path_old_recall"
+      ]
+    },
+    "tags": [
+      "成长",
+      "晚年",
+      "史册"
+    ]
+  },
+  {
+    "id": "LIFE_PATH_012",
+    "category": "成长_主线阶段",
+    "title": "旧路留痕",
+    "rarity": "rare",
+    "trigger": {
+      "life_stage": [
+        "晚年"
+      ],
+      "age_range": [
+        60,
+        95
+      ],
+      "realm_min": "后天",
+      "realm_max": "渡劫",
+      "mood_range": [
+        -100,
+        100
+      ],
+      "origin": "any",
+      "sect": "any",
+      "region": "any",
+      "requires_flags": [],
+      "excludes_flags": [
+        "life_path_trace_left"
+      ],
+      "weight": 58
+    },
+    "type": "auto",
+    "text": "{主角名}在旧路旁埋下一封手札，只盼来世读到时能少走弯路。",
+    "options": [],
+    "effects": {
+      "experience": 36,
+      "mood": 3,
+      "set_flags": [
+        "life_path_trace_left"
+      ],
+      "leave_trace": {
+        "type": "relic",
+        "summary": "上一世在旧路旁留下成长手札。"
+      }
+    },
+    "tags": [
+      "成长",
+      "晚年",
+      "跨世"
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "houtian",
+    "name": "后天",
+    "layers": ["一重", "二重", "三重", "四重", "五重"],
+    "threshold": 120,
+    "tribulation_to": "xiantian",
+    "tribulation_base": 0.92,
+    "lifespan_bonus": 0
+  },
+  {
+    "id": "xiantian",
+    "name": "先天",
+    "layers": ["初期", "中期", "后期", "圆满"],
+    "threshold": 280,
+    "tribulation_to": "zongshi",
+    "tribulation_base": 0.86,
+    "lifespan_bonus": 6
+  },
+  {
+    "id": "zongshi",
+    "name": "宗师",
+    "layers": ["初窥", "登堂", "大成", "圆满"],
+    "threshold": 650,
+    "tribulation_to": "lianqi",
+    "tribulation_base": 0.78,
+    "lifespan_bonus": 12
+  },
+  {
+    "id": "lianqi",
+    "name": "练气",
+    "layers": ["一层", "二层", "三层", "四层", "五层", "六层", "七层", "八层", "九层"],
+    "threshold": 1150,
+    "tribulation_to": "zhuji",
+    "tribulation_base": 0.72,
+    "lifespan_bonus": 20
+  },
+  {
+    "id": "zhuji",
+    "name": "筑基",
+    "layers": ["一层", "二层", "三层", "四层", "五层", "六层", "七层", "八层", "九层"],
+    "threshold": 2400,
+    "tribulation_to": "jindan",
+    "tribulation_base": 0.66,
+    "lifespan_bonus": 35
+  },
+  {
+    "id": "jindan",
+    "name": "金丹",
+    "layers": ["一层", "二层", "三层", "四层", "五层", "六层", "七层", "八层", "九层"],
+    "threshold": 5200,
+    "tribulation_to": "yuanying",
+    "tribulation_base": 0.58,
+    "lifespan_bonus": 60
+  },
+  {
+    "id": "yuanying",
+    "name": "元婴",
+    "layers": ["一层", "二层", "三层", "四层", "五层", "六层", "七层", "八层", "九层"],
+    "threshold": 11800,
+    "tribulation_to": "huashen",
+    "tribulation_base": 0.5,
+    "lifespan_bonus": 100
+  },
+  {
+    "id": "huashen",
+    "name": "化神",
+    "layers": ["一层", "二层", "三层", "四层", "五层", "六层", "七层", "八层", "九层"],
+    "threshold": 26000,
+    "tribulation_to": "dujie",
+    "tribulation_base": 0.42,
+    "lifespan_bonus": 180
+  },
+  {
+    "id": "dujie",
+    "name": "渡劫",
+    "layers": ["一层", "二层", "三层", "四层", "五层", "六层", "七层", "八层", "九层"],
+    "threshold": 60000,
+    "tribulation_to": "feisheng",
+    "tribulation_base": 0.32,
+    "lifespan_bonus": 300
+  },
+  {
+    "id": "feisheng",
+    "name": "飞升",
+    "layers": ["逍遥"],
+    "threshold": 0,
+    "tribulation_to": null,
+    "tribulation_base": 1,
+    "lifespan_bonus": 1000,
+    "terminal": true
+  }
+]

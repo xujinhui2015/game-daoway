@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "equipment_000",
+    "name": "断雪剑",
+    "slot": "weapon",
+    "weapon_type": "剑",
+    "quality": "凡品",
+    "effects": {
+      "atk": 4,
+      "defense": 0,
+      "death_risk": 0,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": "剑法",
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_001",
+    "name": "沉星衣",
+    "slot": "armor",
+    "weapon_type": null,
+    "quality": "精品",
+    "effects": {
+      "atk": 6,
+      "defense": 5,
+      "death_risk": -0.0008,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_002",
+    "name": "照胆佩",
+    "slot": "accessory",
+    "weapon_type": null,
+    "quality": "宝器",
+    "effects": {
+      "atk": 8,
+      "defense": 0,
+      "death_risk": -0.0012000000000000001,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_003",
+    "name": "归潮棍",
+    "slot": "weapon",
+    "weapon_type": "棍",
+    "quality": "灵器",
+    "effects": {
+      "atk": 10,
+      "defense": 0,
+      "death_risk": 0,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": "棍法",
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_004",
+    "name": "藏锋衣",
+    "slot": "armor",
+    "weapon_type": null,
+    "quality": "神兵",
+    "effects": {
+      "atk": 12,
+      "defense": 8,
+      "death_risk": -0.002,
+      "cultivate_speed": 0.025
+    },
+    "special": "可由轮回烙印跨世保留",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": true
+  },
+  {
+    "id": "equipment_005",
+    "name": "明砂佩",
+    "slot": "accessory",
+    "weapon_type": null,
+    "quality": "凡品",
+    "effects": {
+      "atk": 14,
+      "defense": 0,
+      "death_risk": -0.0004,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_006",
+    "name": "却尘长鞭",
+    "slot": "weapon",
+    "weapon_type": "长鞭",
+    "quality": "精品",
+    "effects": {
+      "atk": 16,
+      "defense": 0,
+      "death_risk": 0,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": "长鞭法",
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_007",
+    "name": "听雨衣",
+    "slot": "armor",
+    "weapon_type": null,
+    "quality": "宝器",
+    "effects": {
+      "atk": 18,
+      "defense": 11,
+      "death_risk": -0.0012000000000000001,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_008",
+    "name": "扶摇佩",
+    "slot": "accessory",
+    "weapon_type": null,
+    "quality": "灵器",
+    "effects": {
+      "atk": 20,
+      "defense": 0,
+      "death_risk": -0.0016,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_009",
+    "name": "映霞刀",
+    "slot": "weapon",
+    "weapon_type": "刀",
+    "quality": "神兵",
+    "effects": {
+      "atk": 22,
+      "defense": 0,
+      "death_risk": 0,
+      "cultivate_speed": 0.025
+    },
+    "special": "可由轮回烙印跨世保留",
+    "match_skill_type": "刀法",
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": true
+  },
+  {
+    "id": "equipment_010",
+    "name": "止戈衣",
+    "slot": "armor",
+    "weapon_type": null,
+    "quality": "凡品",
+    "effects": {
+      "atk": 24,
+      "defense": 14,
+      "death_risk": -0.0004,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_011",
+    "name": "重岚佩",
+    "slot": "accessory",
+    "weapon_type": null,
+    "quality": "精品",
+    "effects": {
+      "atk": 26,
+      "defense": 0,
+      "death_risk": -0.0008,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_012",
+    "name": "断雪拳套",
+    "slot": "weapon",
+    "weapon_type": "拳套",
+    "quality": "宝器",
+    "effects": {
+      "atk": 28,
+      "defense": 0,
+      "death_risk": 0,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": "拳套法",
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_013",
+    "name": "沉星衣",
+    "slot": "armor",
+    "weapon_type": null,
+    "quality": "灵器",
+    "effects": {
+      "atk": 30,
+      "defense": 17,
+      "death_risk": -0.0016,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_014",
+    "name": "照胆佩",
+    "slot": "accessory",
+    "weapon_type": null,
+    "quality": "神兵",
+    "effects": {
+      "atk": 32,
+      "defense": 0,
+      "death_risk": -0.002,
+      "cultivate_speed": 0.025
+    },
+    "special": "可由轮回烙印跨世保留",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": true
+  },
+  {
+    "id": "equipment_015",
+    "name": "归潮扇",
+    "slot": "weapon",
+    "weapon_type": "扇",
+    "quality": "凡品",
+    "effects": {
+      "atk": 34,
+      "defense": 0,
+      "death_risk": 0,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": "扇法",
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_016",
+    "name": "藏锋衣",
+    "slot": "armor",
+    "weapon_type": null,
+    "quality": "精品",
+    "effects": {
+      "atk": 36,
+      "defense": 20,
+      "death_risk": -0.0008,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_017",
+    "name": "明砂佩",
+    "slot": "accessory",
+    "weapon_type": null,
+    "quality": "宝器",
+    "effects": {
+      "atk": 38,
+      "defense": 0,
+      "death_risk": -0.0012000000000000001,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_018",
+    "name": "却尘枪",
+    "slot": "weapon",
+    "weapon_type": "枪",
+    "quality": "灵器",
+    "effects": {
+      "atk": 40,
+      "defense": 0,
+      "death_risk": 0,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": "枪法",
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_019",
+    "name": "听雨衣",
+    "slot": "armor",
+    "weapon_type": null,
+    "quality": "神兵",
+    "effects": {
+      "atk": 42,
+      "defense": 23,
+      "death_risk": -0.002,
+      "cultivate_speed": 0.025
+    },
+    "special": "可由轮回烙印跨世保留",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": true
+  },
+  {
+    "id": "equipment_020",
+    "name": "扶摇佩",
+    "slot": "accessory",
+    "weapon_type": null,
+    "quality": "凡品",
+    "effects": {
+      "atk": 44,
+      "defense": 0,
+      "death_risk": -0.0004,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_021",
+    "name": "映霞短刃",
+    "slot": "weapon",
+    "weapon_type": "短刃",
+    "quality": "精品",
+    "effects": {
+      "atk": 46,
+      "defense": 0,
+      "death_risk": 0,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": "短刃法",
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_022",
+    "name": "止戈衣",
+    "slot": "armor",
+    "weapon_type": null,
+    "quality": "宝器",
+    "effects": {
+      "atk": 48,
+      "defense": 26,
+      "death_risk": -0.0012000000000000001,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_023",
+    "name": "重岚佩",
+    "slot": "accessory",
+    "weapon_type": null,
+    "quality": "灵器",
+    "effects": {
+      "atk": 50,
+      "defense": 0,
+      "death_risk": -0.0016,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_024",
+    "name": "断雪剑",
+    "slot": "weapon",
+    "weapon_type": "剑",
+    "quality": "神兵",
+    "effects": {
+      "atk": 52,
+      "defense": 0,
+      "death_risk": 0,
+      "cultivate_speed": 0.025
+    },
+    "special": "可由轮回烙印跨世保留",
+    "match_skill_type": "剑法",
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": true
+  },
+  {
+    "id": "equipment_025",
+    "name": "沉星衣",
+    "slot": "armor",
+    "weapon_type": null,
+    "quality": "凡品",
+    "effects": {
+      "atk": 54,
+      "defense": 29,
+      "death_risk": -0.0004,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_026",
+    "name": "照胆佩",
+    "slot": "accessory",
+    "weapon_type": null,
+    "quality": "精品",
+    "effects": {
+      "atk": 56,
+      "defense": 0,
+      "death_risk": -0.0008,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_027",
+    "name": "归潮棍",
+    "slot": "weapon",
+    "weapon_type": "棍",
+    "quality": "宝器",
+    "effects": {
+      "atk": 58,
+      "defense": 0,
+      "death_risk": 0,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": "棍法",
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_028",
+    "name": "藏锋衣",
+    "slot": "armor",
+    "weapon_type": null,
+    "quality": "灵器",
+    "effects": {
+      "atk": 60,
+      "defense": 32,
+      "death_risk": -0.0016,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_029",
+    "name": "明砂佩",
+    "slot": "accessory",
+    "weapon_type": null,
+    "quality": "神兵",
+    "effects": {
+      "atk": 62,
+      "defense": 0,
+      "death_risk": -0.002,
+      "cultivate_speed": 0.025
+    },
+    "special": "可由轮回烙印跨世保留",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": true
+  },
+  {
+    "id": "equipment_030",
+    "name": "却尘长鞭",
+    "slot": "weapon",
+    "weapon_type": "长鞭",
+    "quality": "凡品",
+    "effects": {
+      "atk": 64,
+      "defense": 0,
+      "death_risk": 0,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": "长鞭法",
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_031",
+    "name": "听雨衣",
+    "slot": "armor",
+    "weapon_type": null,
+    "quality": "精品",
+    "effects": {
+      "atk": 66,
+      "defense": 35,
+      "death_risk": -0.0008,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_032",
+    "name": "扶摇佩",
+    "slot": "accessory",
+    "weapon_type": null,
+    "quality": "宝器",
+    "effects": {
+      "atk": 68,
+      "defense": 0,
+      "death_risk": -0.0012000000000000001,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_033",
+    "name": "映霞刀",
+    "slot": "weapon",
+    "weapon_type": "刀",
+    "quality": "灵器",
+    "effects": {
+      "atk": 70,
+      "defense": 0,
+      "death_risk": 0,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": "刀法",
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_034",
+    "name": "止戈衣",
+    "slot": "armor",
+    "weapon_type": null,
+    "quality": "神兵",
+    "effects": {
+      "atk": 72,
+      "defense": 38,
+      "death_risk": -0.002,
+      "cultivate_speed": 0.025
+    },
+    "special": "可由轮回烙印跨世保留",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": true
+  },
+  {
+    "id": "equipment_035",
+    "name": "重岚佩",
+    "slot": "accessory",
+    "weapon_type": null,
+    "quality": "凡品",
+    "effects": {
+      "atk": 74,
+      "defense": 0,
+      "death_risk": -0.0004,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_036",
+    "name": "断雪拳套",
+    "slot": "weapon",
+    "weapon_type": "拳套",
+    "quality": "精品",
+    "effects": {
+      "atk": 76,
+      "defense": 0,
+      "death_risk": 0,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": "拳套法",
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_037",
+    "name": "沉星衣",
+    "slot": "armor",
+    "weapon_type": null,
+    "quality": "宝器",
+    "effects": {
+      "atk": 78,
+      "defense": 41,
+      "death_risk": -0.0012000000000000001,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_038",
+    "name": "照胆佩",
+    "slot": "accessory",
+    "weapon_type": null,
+    "quality": "灵器",
+    "effects": {
+      "atk": 80,
+      "defense": 0,
+      "death_risk": -0.0016,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_039",
+    "name": "归潮扇",
+    "slot": "weapon",
+    "weapon_type": "扇",
+    "quality": "神兵",
+    "effects": {
+      "atk": 82,
+      "defense": 0,
+      "death_risk": 0,
+      "cultivate_speed": 0.025
+    },
+    "special": "可由轮回烙印跨世保留",
+    "match_skill_type": "扇法",
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": true
+  },
+  {
+    "id": "equipment_040",
+    "name": "藏锋衣",
+    "slot": "armor",
+    "weapon_type": null,
+    "quality": "凡品",
+    "effects": {
+      "atk": 84,
+      "defense": 44,
+      "death_risk": -0.0004,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_041",
+    "name": "明砂佩",
+    "slot": "accessory",
+    "weapon_type": null,
+    "quality": "精品",
+    "effects": {
+      "atk": 86,
+      "defense": 0,
+      "death_risk": -0.0008,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_042",
+    "name": "却尘枪",
+    "slot": "weapon",
+    "weapon_type": "枪",
+    "quality": "宝器",
+    "effects": {
+      "atk": 88,
+      "defense": 0,
+      "death_risk": 0,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": "枪法",
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_043",
+    "name": "听雨衣",
+    "slot": "armor",
+    "weapon_type": null,
+    "quality": "灵器",
+    "effects": {
+      "atk": 90,
+      "defense": 47,
+      "death_risk": -0.0016,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_044",
+    "name": "扶摇佩",
+    "slot": "accessory",
+    "weapon_type": null,
+    "quality": "神兵",
+    "effects": {
+      "atk": 92,
+      "defense": 0,
+      "death_risk": -0.002,
+      "cultivate_speed": 0.025
+    },
+    "special": "可由轮回烙印跨世保留",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": true
+  },
+  {
+    "id": "equipment_045",
+    "name": "映霞短刃",
+    "slot": "weapon",
+    "weapon_type": "短刃",
+    "quality": "凡品",
+    "effects": {
+      "atk": 94,
+      "defense": 0,
+      "death_risk": 0,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": "短刃法",
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_046",
+    "name": "止戈衣",
+    "slot": "armor",
+    "weapon_type": null,
+    "quality": "精品",
+    "effects": {
+      "atk": 96,
+      "defense": 50,
+      "death_risk": -0.0008,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_047",
+    "name": "重岚佩",
+    "slot": "accessory",
+    "weapon_type": null,
+    "quality": "宝器",
+    "effects": {
+      "atk": 98,
+      "defense": 0,
+      "death_risk": -0.0012000000000000001,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_048",
+    "name": "断雪剑",
+    "slot": "weapon",
+    "weapon_type": "剑",
+    "quality": "灵器",
+    "effects": {
+      "atk": 100,
+      "defense": 0,
+      "death_risk": 0,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": "剑法",
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_049",
+    "name": "沉星衣",
+    "slot": "armor",
+    "weapon_type": null,
+    "quality": "神兵",
+    "effects": {
+      "atk": 102,
+      "defense": 53,
+      "death_risk": -0.002,
+      "cultivate_speed": 0.025
+    },
+    "special": "可由轮回烙印跨世保留",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": true
+  },
+  {
+    "id": "equipment_050",
+    "name": "照胆佩",
+    "slot": "accessory",
+    "weapon_type": null,
+    "quality": "凡品",
+    "effects": {
+      "atk": 104,
+      "defense": 0,
+      "death_risk": -0.0004,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_051",
+    "name": "归潮棍",
+    "slot": "weapon",
+    "weapon_type": "棍",
+    "quality": "精品",
+    "effects": {
+      "atk": 106,
+      "defense": 0,
+      "death_risk": 0,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": "棍法",
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_052",
+    "name": "藏锋衣",
+    "slot": "armor",
+    "weapon_type": null,
+    "quality": "宝器",
+    "effects": {
+      "atk": 108,
+      "defense": 56,
+      "death_risk": -0.0012000000000000001,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_053",
+    "name": "明砂佩",
+    "slot": "accessory",
+    "weapon_type": null,
+    "quality": "灵器",
+    "effects": {
+      "atk": 110,
+      "defense": 0,
+      "death_risk": -0.0016,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_054",
+    "name": "却尘长鞭",
+    "slot": "weapon",
+    "weapon_type": "长鞭",
+    "quality": "神兵",
+    "effects": {
+      "atk": 112,
+      "defense": 0,
+      "death_risk": 0,
+      "cultivate_speed": 0.025
+    },
+    "special": "可由轮回烙印跨世保留",
+    "match_skill_type": "长鞭法",
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": true
+  },
+  {
+    "id": "equipment_055",
+    "name": "听雨衣",
+    "slot": "armor",
+    "weapon_type": null,
+    "quality": "凡品",
+    "effects": {
+      "atk": 114,
+      "defense": 59,
+      "death_risk": -0.0004,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_056",
+    "name": "扶摇佩",
+    "slot": "accessory",
+    "weapon_type": null,
+    "quality": "精品",
+    "effects": {
+      "atk": 116,
+      "defense": 0,
+      "death_risk": -0.0008,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_057",
+    "name": "映霞刀",
+    "slot": "weapon",
+    "weapon_type": "刀",
+    "quality": "宝器",
+    "effects": {
+      "atk": 118,
+      "defense": 0,
+      "death_risk": 0,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": "刀法",
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_058",
+    "name": "止戈衣",
+    "slot": "armor",
+    "weapon_type": null,
+    "quality": "灵器",
+    "effects": {
+      "atk": 120,
+      "defense": 62,
+      "death_risk": -0.0016,
+      "cultivate_speed": 0
+    },
+    "special": "契合对应功法时提高修炼稳定度",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": false
+  },
+  {
+    "id": "equipment_059",
+    "name": "重岚佩",
+    "slot": "accessory",
+    "weapon_type": null,
+    "quality": "神兵",
+    "effects": {
+      "atk": 122,
+      "defense": 0,
+      "death_risk": -0.002,
+      "cultivate_speed": 0.025
+    },
+    "special": "可由轮回烙印跨世保留",
+    "match_skill_type": null,
+    "source": [
+      "auction",
+      "event",
+      "relic"
+    ],
+    "transferable": true
+  }
+]
